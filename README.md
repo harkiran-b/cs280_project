@@ -17,9 +17,8 @@ Overarching Question:
 
 5 Mature Questions:
 
-	1. Are Nintendo games rated higher by critics over other publishers? Are they rated higher by users as well?
-	2. Have video game sales increased over time within each region with the increase of games available globally?
-	3. Do action games sell more copies (based on sales) than sports games, regardless of publisher? -> hypothesis test with shuffling of genre
-	4. Which platform gets a higher rating with critics, with users?
-	5. Do critics rate games higher than users or vice versa?
-	6. Which region has the highest volume of video games sold?
+	1. Have video game sales increased over time within each region with the increase of games available globally?
+	2. Do action games sell more copies (based on sales) than sports games, regardless of publisher?
+	3. Which platform gets a higher rating with critics and users?
+	4. Do critics rate games higher than users or vice versa?
+	5. Which region has the highest volume of video games sold?
